@@ -50,6 +50,7 @@ while True:
 
         message = f"{suchfeld_value}: {preis_elements.text}"
         bot.send_message(chat_id, message)
+        print(message)
 
         # Bilder herunterladen
     images = []
