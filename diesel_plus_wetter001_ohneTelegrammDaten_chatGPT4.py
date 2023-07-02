@@ -21,6 +21,7 @@ image_urls = [
 url_template = "https://www.fuelflash.eu/en/?land={}&suchfeld={}&entfernung=20&sorte={}&sortierung=preis"
 params = [("de", "frankfurt", "diesel"),
           ("de", "heidelberg", "diesel"),
+          ("de", "butzbach", "diesel"),
           ("de", "bielefeld", "diesel"),
           ("de", "neumünster", "diesel"),
           ("de", "hamburg", "diesel"),
