@@ -23,9 +23,12 @@ params = [("de", "frankfurt", "diesel"),
           ("de", "heidelberg", "diesel"),
           ("de", "bielefeld", "diesel"),
           ("de", "neumünster", "diesel"),
+          ("de", "hamburg", "diesel"),
           ("de", "hannover", "diesel"),
           ("de", "muenchen", "diesel"),
+          ("de", "lörrach", "diesel"),
           ("fr", "nimes", "diesel"),
+          ("es", "figueres", "diesel"),
           ("es", "amposta", "diesel")
           ]
 
