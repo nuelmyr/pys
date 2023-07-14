@@ -15,7 +15,8 @@ image_urls = [
     "https://www.dwd.de/DWD/wetter/wv_allg/deutschland/bilder/vhs_brd_uebermorgenspaet.jpg",
     "https://www.dwd.de/DWD/wetter/wv_allg/deutschland/bilder/vhs_shh_uebermorgenspaet.jpg",
     "https://www.dwd.de/DWD/wetter/wv_allg/deutschland/bilder/vhs_bay_uebermorgenspaet.jpg",
-    "https://www.dwd.de/DWD/wetter/wv_allg/deutschland/bilder/vhs_baw_uebermorgenspaet.jpg"
+    "https://www.dwd.de/DWD/wetter/wv_allg/deutschland/bilder/vhs_baw_uebermorgenspaet.jpg",
+    "https://images2.wetterdienst.de/maps/germany/forecasts/trendpic.jpg"
 ]
 
 url_template = "https://www.fuelflash.eu/en/?land={}&suchfeld={}&entfernung=20&sorte={}&sortierung=preis"
